@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is an introduction app to make sure developers get used to working in an open-source community.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This project is to get everybody used to working in such an enviroment
 
 ## Getting started
 
